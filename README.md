@@ -18,3 +18,4 @@ Playground Android project to test [jacoco-report](https://github.com/Madrapps/j
 - The unified report will be generated under `${rootDir}/build/reports/jacoco/`
 
 For the full article on this read this [blog](https://thsaravana.github.io/blog/jacoco-single-coverage-for-multi-module/).
+
